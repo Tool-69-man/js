@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        // 字符串文字：考虑字符串转义和正则转义
+        document.write(new RegExp("\\d").test("1")+"<br>");
+        //正则文字 在两端写上/ /只需考虑正则转义
+        document.write(/\d/.test("1")+"<br>");
+        document.write(/\d/.test("1")+"<br>");
+        document.write(/^\d$/.test("a1")+"<br>");
+    </script>
+</head>
+<body>
+
+</body>
+</html>

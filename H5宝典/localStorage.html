@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<script>
+    if(window.localStorage){
+        alert("浏览器支持localStorage")
+    }else {
+        alert("浏览器不支持localStorage")
+    }
+    //添加数据
+    localStorage.name="帅气"
+    localStorage["age"]="17"
+    localStorage.setItem("sex","man")
+
+    //获取数据
+    var v=localStorage.name
+    var v2=localStorage["age"]
+    var v3 =localStorage.getItem("sex")
+    document.write(v+"<br>")
+    document.write(v2+"<br>")
+    document.write(v3+"<br>")
+    console.log(v);
+    console.log(v2);
+    console.log(v3);
+    console.clear()
+
+    var message={name:"火影",age:17,sex:"man"}
+    localStorage.setItem("message",JSON.stringify(message))
+    var newmessage=JSON.parse(localStorage.getItem("message"))
+    // 删除
+    // localStorage.removeItem("name")
+    // // 清除所有
+    // localStorage.clear()
+
+</script>
+</head>
+<body>
+
+</body>
+</html>

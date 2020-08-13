@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var a=10,b=10;
+//错误的代码会干扰后面的代码  BUG!!!
+    //alert(a==b)?正确:错误//只会返回true 展现判断结果
+
+    // alert((a==b)?正确:错误);//把文字结果包裹在（）内，javascript无法识别汉字
+
+    //alert(a==b)?"正确":"错误";//结果包裹在没有（）内
+
+    alert((a==b)?"正确":"错误");//正确
+
+    document.write((a==b)?"正确":"错误")//OK
+
+</script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+   .中心点变换{
+       width:100px;
+       height:100px;
+       background-color: rgba(255,180,130,0.76);
+   }
+        .中心点变换:hover{
+            width: 200px;
+            height: 200px;
+            /*transform: scale(1.5);!*从中心扩大，与直接设置宽高不同*!*/
+            transform: scale(0.5);/*变大后再缩小，真有意思*/
+            transform:rotate(45deg);
+            /*transform:rotate(-30deg);*/
+            transform:scaleX(2);/*增长原来的100px的长度*/
+            /*transform:rotateX(90deg);*/
+        }
+    .自定义中心{
+       width:100px;
+       height:100px;
+       background-color: rgba(255,180,130,0.76);
+   }
+        .自定义中心:hover{
+            width: 100px;
+            height: 100px;
+            /*transform-origin: top right;*/
+            /*transform: scale(1.5);!*改变中心后，向中心反向扩大增长*!*/
+            /*transform: scale(0.5);!*向中心缩小*!*/
+            /*transform:rotate(45deg);*/
+            /*transform:rotate(-30deg);*/
+            /*transform:scaleX(2);!*增长中心反向*!*/
+            transform:scaleX(0.5);/*缩小中心正向*/
+            /*transform:rotateX(90deg);*/
+            transform-origin: 20px 40px;/*那么缩小比例，根据中心不同，位置不同*/
+        }
+
+    </style>
+</head>
+<body>
+<p class="中心点变换">总之，中点确定后，</p>
+<p class="自定义中心">怎么变换，中点不能动</p>
+</body>
+</html>

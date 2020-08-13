@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var now=new Date();
+        alert("现在的时间是"+now)
+        function check() {
+            var name = GO.user.value
+            var pwd = GO.pwd.value;
+            if ((name=="")||(name=null)){
+                alert("请输入账户\n")
+                Go.user.focus()
+                return
+            }
+            else if ((pwd=="")||(pwd=null)){
+                alert("请输入密码\n")
+                Go.pwd.focus()
+                return
+            }
+            else{
+                alert("提交表单")
+                GO.submit()
+            }
+        }
+    </script>
+</head>
+<body>
+
+<fieldset>
+    <legend>第一组</legend>
+    <!--表单数据提交-->
+    <!--< form action="https://www.github.com/Tool-69-man"   method="post" >-->
+    get真的不安全 我用post防止访问网址不能进入   而get却成功了
+     <form method="post" name="GO" action="https://github.com/Tool-69-man">
+   <!--<form method="get" name="GO" action="https://github.com/Tool-69-man">-->
+
+    <table  cellpadding="2" align="center">
+
+    <!--<table  border="100"   align="center">神奇的边框，品质突然上升-->
+
+    <!--<table  cellspacing="100" align="center">-->
+
+        <tr>
+            <td align="right">用户名：</td>
+            <!--<td >用户名：</td>-->
+            <td> <input placeholder="用户名" name="user"></td>
+            <!--<input name="username"/>-->
+        </tr>
+        <tr>
+            <td align="right">密码：</td>
+
+            <!--<td >密码：</td>-->
+
+            <td> <input type="password" placeholder="密码" name="pwd"></td>
+
+            <!--<input name="password"/>-->
+
+        </tr>
+        <tr>
+           <td align="right">性别：</td>
+            <td>
+                <input type="radio" name="sex" value="man"/>男
+                <input type="radio" name="sex" value="female">女
+            </td>
+        </tr>
+
+        <tr>
+           <td align="right">兴趣：</td>
+            <td>
+                <input type="checkbox" name="like">游戏
+                <input type="checkbox" name="like">动漫
+                <input type="checkbox" name="like">编程
+                <input type="checkbox" name="like">体育
+            </td>
+        </tr>
+        <tr>
+            <td align="right">头像：</td>
+            <td >
+                <input type="file" >
+            </td>
+        </tr>
+        <tr>
+
+            <td colspan="2" align="center">
+                <input type="button" value="注册" onclick="check()" >
+                <input type="reset" value="重置">
+            </td>
+        </tr>
+
+    </table>
+    </form>
+</fieldset>
+</body>
+</html>

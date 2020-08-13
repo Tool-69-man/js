@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+
+        [href="网站.html"]{/*如果只写【href】,写在最后执行，覆盖前项*/
+        font-size: 70px;
+        color: #d5ccff;
+    }
+        [href="列表.html"]{
+            font-size: 70px;
+            color: #345eff;
+        }
+
+        [href].巨无霸变身{
+            font-size: 70px;
+            color: #ff0443;
+        }
+
+        [href="列表.html"]:hover{/*可以改变单个*/
+            font-size:60px;
+            color: #ca00ff;
+        }
+
+        [href].巨无霸变身:hover{/*可以改变一个类*/
+            font-size: 70px;
+            color: #21ff0d;
+        }
+        a:hover{
+            font-size: 100px;/*让所以a标签改变，但改变不了有【herf=""】:hover  或【herf】.class:hover*/
+            color: #fffcd3;
+        }
+        [href]:hover{
+            font-size: 100px;/*覆盖上述带有 【 herf】：hover 属性，未覆盖的，因为class>属性*/
+            color: #ffa200;
+        }
+        [href]{
+            font-size: 100px;/*覆盖上述带有【herf】属性，未覆盖的，因为class>属性*/
+            color: #ffd2ff;
+        }
+
+    </style>
+</head>
+<body>
+<a href="网站.html">开始</a>
+<a href="列表.html">掌握一切</a>
+<a href="列表.html" class="巨无霸变身"> 列表.html</a>
+<a href="视频.html" class="巨无霸变身">视频.html</a>
+</body>
+</html>

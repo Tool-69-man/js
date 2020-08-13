@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        window.onload=function () {
+            var account=document.getElementById('password2');
+
+            var notice=document.getElementsByClassName('notice');
+            account.onfocus=function () {
+                notice[0].style.display="block";
+
+            };
+            account.onblur=function () {
+                notice[0].style.display="none";
+
+            }
+        }
+    </script>
+</head>
+<body>
+<div>
+    <form action="" method="post">
+        <fieldset>
+            <legend>账户信息</legend>
+
+            <div class="left">
+                <label for="account">账号：</label>
+            </div>
+
+            <div class="right">
+                <input type="text" name="my_account" id="account">
+                <div class="notice">请输入8位数长度字符串，可包括数字、小写字母或大写字母，不能输入符合</div>
+            </div>
+
+            <div class="left">
+                <label for="password">密码：</label>
+            </div>
+
+            <div class="right">
+                <input type="password" name="my_password" id="password">
+            </div>
+
+            <div>  <label for="password2">再次输入密码</label></div>
+
+            <div class="right">
+                <input type="password" name="my_password2" id="password2">
+                <div class="notice">关系到你的账户安全，请记住你的密码，并保持两次一致！</div>
+            </div>
+        </fieldset>
+        <fieldset>
+            <legend>个人信息</legend>
+            <div class="left">
+                <label for="name">姓名：</label>
+            </div>
+            <div class="right">
+                <input type="text" name="my_name" id="name">
+            </div>
+            <div class="left">
+                <label for="age">年龄：</label>
+            </div>
+            <div class="right">
+                <input type="number" name="my_age" max="99" min="1">
+            </div>
+            <div class="left">
+                <label for="date">出生日期：</label>
+            </div>
+            <div class="right">
+                <input type="date" name="my_date" id="date">
+            </div>
+            <div class="left">
+                <label>性别:</label>
+            </div>
+            <div class="right">
+                <label>男：<input type="radio" name="my_sex" value="boy"></label>
+                <label>女：<input type="radio" name="my_sex" value="girl"></label>
+            </div>
+        </fieldset>
+
+
+        <fieldset>
+            <legend>联系方式</legend>
+            <div class="left">
+                <label for="tel">手机号码：</label>
+            </div>
+            <div class="right">
+                <input type="tel" name="my_tel" id="tel">
+            </div>
+            <div class="left">
+                <label for="email">手机号码：</label>
+            </div>
+            <div class="right">
+                <input for="email" name="my_email" id="email"></input>
+            </div>
+            <input type="submit" name="my_submit" value="提交">
+        </fieldset>
+    </form>
+</div>
+</body>
+</html>

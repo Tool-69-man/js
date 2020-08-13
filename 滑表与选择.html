@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+    <input type="range">
+    <input type="range" max="200" min="-100" step="100">
+    <input type="range" max="200" min="-100" value="200">
+     <input type="number">
+    <input type="number" max="100" min="-100" value="0">
+
+<!--    选择框-->
+    <input type="checkbox">选择
+    <input type="radio">选择无法更改
+<!--    复选只需重复上述操作-->
+<!--    但下列实现多选一-->
+    <br/>
+    成为神
+    <br/>
+<!--    相同name选择-->
+    <input type="radio" name="X">鲁鲁修
+    <input type="radio" name="a" >夜神月
+    <input type="radio" name="a" >五河士道
+<!--    实现默认选取-->
+    <input type="radio" name="X" checked>我
+
+    <br>
+    <!--在已定义元素中选取-->
+    请问你：选一个最喜欢的动漫
+    <select>
+    喜欢的动漫         <!--此处放置文字无用-->
+        <option>To love</option>
+        <option>吸血鬼与十字架</option>
+        <option>失忆症</option>
+        <option>碧蓝之海</option>
+    </select>
+
+    <br>
+<!--升级数据列表      能添加其他元素-->
+    你最爱的二次元：
+    <input list="data1">
+    <datalist id="data1">
+<option>C.C</option>
+<option>02</option>
+<option>Miku</option>
+<option>折纸</option>
+<option>穹</option>
+<!--全都要-->
+    <datalist>
+</form>
+</body>
+</html>

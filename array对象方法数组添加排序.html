@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+
+        var arr=new Array(1,2,3,4)
+        document.write("原数组"+arr)
+        document.write("<br>");
+        document.write(arr.concat(5,6,7))//arr.concat()连接两个数组数组
+        document.write("<br>");
+        document.write("原数组"+arr)//arr.concat()连接到数组末端
+        document.write("<br>");
+
+        var arr1=new  Array(8,9,10)
+        arr=arr.concat(arr1)
+        document.write("原数组"+arr)
+        document.write("<br>");
+        document.write("删除了"+arr.shift()+"随后数组变成："+arr)//删除数组第一个数，返回被删数
+        document.write("<br>");
+
+        document.write("删除了"+arr.pop()+"随后数组变成："+arr)//删除数组最后一个数，返回被删数
+        document.write("<br>");
+
+        document.write(arr)
+        document.write("<br>");
+        document.write("数组长度增至为"+arr.push(999,90))//push()增加元素，返回长度
+        document.write("<br>");
+        document.write(arr)
+        document.write("<br>");
+
+        document.write("长度："+arr.unshift(88,80,71))
+        document.write("<br>");
+        document.write(arr)
+        document.write("<br>");
+
+
+        document.write("无参数按编码顺序排序"+arr.sort());
+        document.write("<br>");
+        document.write("颠倒："+arr.reverse())
+        document.write("<br>");
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

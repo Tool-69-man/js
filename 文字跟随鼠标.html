@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="gb2312">
+    <title>鼠标移动文字</title>
+    <style>
+        .move_out{
+            position: relative;
+            cursor: hand;
+            font-family: 华文隶书;
+
+        }
+    </style>
+    <script>
+        var move_out=false;
+        var x,y,z;
+        function move() {
+            if (move_out){
+                z.style.pixelLeft=temporarily1+event.clientX-x;
+                z.style.pixelTop=temporarily2+event.clientY-y;
+                return false;
+            }
+        }
+
+        function down() {
+            if (event.srcElement.className=="move_out"){
+                move_out=true;
+                z=event.srcElement;
+                temporarily1=z.style.pixelLeft;
+                temporarily2=z.style.pixelTop;
+                x=event.clientX;
+                y=event.clientY;
+                document.onmousemove=move;
+            }
+            else {
+                move_out=false
+            }
+        }
+
+        document.onmousedown=down;
+
+    </script>
+</head>
+
+
+<body>
+<a style="color: rgba(255,146,131,0.76)"  class="move_out">行动吧</a>
+<!--<font  class="move_out">move</font>-->
+<!--<a style="color: #345eff"  >对照吧</a>-->
+</body>
+</html>

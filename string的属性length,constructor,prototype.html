@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+      alert('开始显示"text1"的长度')
+        var p=0;
+        var newIntStr=new String('text1')
+        var p=newIntStr.length;//显示长度
+        //alert(p)
+        alert(p.toString(16))//toString(16)中16表示进制
+        document.write('开始判断"bootlean2"的属性'+'<br>')
+        var newString=new String('bootlean2')
+        if(newString.constructor==String){
+            document.write('this is String'+'<br>')
+            document.write(newString.constructor)//显示对象代码函数
+        }
+
+        function show(name,year){
+            this.name=name
+            this.year=year
+      }
+      var fun=new show('出生年月日',20001212)//实例化函数对象
+        alert(fun.constructor)//显示对象代码函数
+        alert(fun.toString())
+
+        alert('prototype开始添加属性工资salary')
+        show.prototype.salary=null
+        fun.salary=3000;
+        document.write('开始展示属性'+'<br>'+fun.name+'<br>'+fun.year+'<br>'+fun.salary)
+    </script>
+</head>
+<body>
+
+</body>
+</html>

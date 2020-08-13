@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function myfun() {
+            var num=12
+            var str="个回合"
+            document.write("开始"+num+str+"<br>")
+        }
+         y=new myfun;//创造函数被调用了
+        if (y.constructor==myfun){
+            y
+            document.write("开始"+num+y.str+"<br>")//这个有什么用呢？
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

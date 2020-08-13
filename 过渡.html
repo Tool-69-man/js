@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .过渡场景{
+            background: #66cdff;
+            width: 100px;
+            height: 100px;
+
+        }
+        .过渡场景:hover{
+            width: 200px;
+            height: 200px;/*不设置不一样的宽和高，默认宽高相同*/
+            background-color: #d5ccff;
+            transition-delay: 400ms;
+            transition-duration: 400ms;
+            -webkit-transition-property: background-color ,width;
+            -moz-transition-property: background-color ,width;
+            -ms-transition-property: background-color ,width;
+            -o-transition-property: background-color ,width;
+            transition-property: background-color ,width;
+        
+        
+        
+        
+        }
+
+    </style>
+</head>
+<body >
+<p class="过渡场景"></p>
+</body>
+</html>

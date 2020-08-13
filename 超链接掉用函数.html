@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script >
+        function fun1(num) {
+            alert("show this:"+num)
+        }
+        function  timeshow() {
+            var time1=ff.tt.value;
+            return time1  //返回值
+        }
+    </script>
+</head>
+<body>
+<form name="ff"><input type="date" name="tt"></form>
+<!--<a href="javascript:fun1(1212);">OK</a>-->
+调用函数输入再返回值传参调用函数输入
+<a href="javascript:fun1(timeshow());">OK</a>
+但我不想再多写1个函数，但用name="tt" 传入又不行
+<a href="javascript:fun1());">OK</a>
+</body>
+</html>

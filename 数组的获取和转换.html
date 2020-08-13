@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var arr =new Array("a","b","c","d","e","f","g","h","i");//arr[0]=a
+        document.write("取出数字第3个元素及之后元素"+arr.slice(2))//从数组中取数组
+        document.write("取出数字第2个元素到第5个"+arr.slice(1,5))
+        document.write("取出数字倒数第2个元素及之后元素"+arr.slice(-2))
+
+
+        document.write("<br/>toString"+arr.toString())//转为字符串
+        document.write("<br/>toLocalString"+arr.toLocaleString())//转为本地字符串
+        document.write("<br/>"+arr.join())//所有元素都在一个字符串里
+        document.write("<br/>"+arr.join('#'))//有参数就是分割符
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

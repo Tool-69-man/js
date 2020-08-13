@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .class1{
+            border-style: groove;
+            border-bottom-style:dot-dot-dash;/*<!--unset没有显示-->*/
+            border-left-style: dot-dash;/*dot-dash实线,dotted原点虚线,groove内嵌样式*/
+        border-right-style: groove;
+            border-color: #bbbbff;
+            border-width: 5px;
+            background-color: antiquewhite;
+
+        }
+
+
+
+
+
+        .class2{
+            border: aquamarine 5px solid;
+            border-bottom:  5px groove  #ffc88c ;
+            background-image: url(军训结束（晨曦）.jpg);
+        }
+        .class3{
+            width: 4608px;
+             height: 2128px;
+
+            border: aquamarine 5px solid;
+            background-image: url(军训结束（晨曦）.jpg);
+
+        }
+    </style>
+</head>
+<body>
+<p class="class1">边框</p>
+<p class="class2" style="color:#e01314">边框简单的书写，与未设置宽高的图片填充</p>
+<p class="class3" style="font-size: 500px">设置了图片宽高</p>
+</body>
+</html>

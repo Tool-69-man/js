@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>javaScript</title>
+    <script defer>//defer 当文档执行后再执行脚本
+        alert("javascript每个物理行最后一个")
+        alert("不输入分号也能自动结尾");alert("但是逻辑行不行" +//文本换行只要1个+号
+            "所以第二句后加上了分号")
+    var str1="转 \'义字\' 符"
+    var str2="不用转 '义字' 符，单双引号混合同样效果"
+    var str3='转 "义字" 符'
+    var str4='转 \"义字\" 符'
+    var str5='转 \'义字\' 符，但全用单（双）引号，只能用\\ '
+
+document.write(str1+"<br>")
+document.write(str2+"<br>")
+document.write(str3+"<br>")
+document.write(str4+"<br>")
+document.write(str5+"<br>")
+document.write("变量全部相加："+str1+str2+str3+str4+str5)
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

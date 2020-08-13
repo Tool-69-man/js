@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        now=new Date()
+        with (now){//with指定对象   避免对象重复引用
+        document.write(getFullYear()+"年"+getMonth()+"月"+getDate()+"日"+getHours()+":"+getMinutes()+":"+getSeconds()+"<br/>")
+        }
+    document.write(now.getFullYear()+"年"+now.getMonth()+"月"+
+        now.getDate()+"日"+now.getHours()+":"+now.getMinutes()+":"+now.getSeconds()+"<br/>")
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        // var fso1=new ActiveXObject(Scripting.FileSystemObject)
+        // var s=fso1.GetDrive("C:\\")
+        // display(s.IsReady)
+        var path = "X:\\";
+        var fso = new ActiveXObject("Scripting.FileSystemObject");
+        var drive = fso.GetDrive(path);
+        display(drive.AvailableSpace/1024/1024);
+        display(drive.FreeSpace/1024/1024);
+        display(drive.DriveLetter);
+        display(drive.FileSystem);
+        display(drive.IsReady);
+        display(drive.Path);
+        display(drive.RootFolder);
+        display(drive.SerialNumber);
+        display(drive.ShareName);
+        display(drive.ToTalSize/1024/1024);
+        display(drive.VolumeName);
+
+        function display(value){
+          console("<br/>"+value);
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

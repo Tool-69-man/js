@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var mystring = new String("abcABC")//大小写区分string 不行,不识别
+        var afterMyStr= mystring.toLowerCase()
+        //alert("转小写后原来的对象"+(mystring))
+        document.writeln("转小写后原来的对象"+(mystring)+"<br>")
+       // document.write("<pre>"+"转小写后新建变量"+afterMyStr+"<pre>"+"<br>")
+        document.write("转小写后新建变量"+afterMyStr+"<br>")
+        var afterMyStr1= mystring.toLocaleLowerCase()
+        document.writeln("转小写后原来的对象"+mystring+"<br>")
+    </script>
+</head>
+<body>
+
+</body>
+</html>

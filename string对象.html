@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+
+    var str1=new String("好的开始吧,God");
+    document.write("字符串长度："+str1.length+"<br>")//非字节长度
+    document.write(""+str1.constructor+"<br>")//构造函数的引用(此处为String类型)
+    /*
+    String.prototype.getLength()=function () {
+        alert(this.length);
+    }
+    str1.getLength();
+    */
+    document.write(""+str1.charAt(0)+"<br>")//返回当前下标的字符
+        var str2="一切尽在掌握";
+    document.write(""+str2.charAt(5)+"<br>")
+
+        var str3="不会的。我不会死。我死.不掉.才刚刚开始"
+    document.write(""+str3.indexOf("。")+"<br>")//字符最一开始出现的下班
+    document.write(""+str3.indexOf("不会",3)+"<br>")//没数字默认从0开始，有数字从num开始找
+    document.write(""+str3.indexOf(".",12)+"<br>")
+    document.write(""+str3.indexOf(".",6)+"<br>")
+
+
+    //返回字符串最后出现的地方
+    document.write(""+str3.lastIndexOf(".")+"<br>")//没参数默认全部
+    document.write(""+str3.lastIndexOf("不",6)+"<br>")//有参数就是0-6之间匹配
+    document.write(""+str3.lastIndexOf("死",6)+"<br>")
+    document.write(""+str3.lastIndexOf("不",3)+"<br>")
+
+
+   //截取字符串
+    document.write(""+str3.slice(3)+"<br>")//3之后的字符
+    document.write(""+str3.slice(2,6)+"<br>")//2到6
+    document.write(""+str3.slice(0,-3)+"<br>")//0到-3
+    document.write(""+str3.slice(-6)+"<br>")//倒数第6位之后
+
+
+</script>
+</head>
+<body>
+
+</body>
+</html>

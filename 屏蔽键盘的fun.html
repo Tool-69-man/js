@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function maskingKeyboard() {
+            if(event.keyCode===8){
+                event.keyCode=0;
+                event.returnValue=false;
+                alert('无法使用Backspace')
+            }
+            if (event.keyCode===13){
+                event.keyCode=0;
+                event.returnValue=false
+                alert('无法使用enter')
+            }
+            if (event.keyCode===116){
+                event.keyCode=0;
+                event.returnValue=false
+                alert('无法使用F5')
+            }
+            // if ((event.altKey)&&((window.event.keyCode==37)||(window.event.keyCode==39))){
+            //     event.returnValue=false;
+            //     alert('无法用方向键左右')
+            // }
+            if ((event.altKey)&&((event.keyCode===37)||(event.keyCode===39))){
+                event.returnValue=false;
+                alert('无法用方向键左右')
+            }
+            if((event.ctrlKey)&&(event.keyCode===78)){
+                event.returnValue=false
+                alert('ctrl+N无法使用')
+            }
+            if((event.shiftKey)&&(event.keyCode===121)){
+                event.returnValue=false
+                alert('shift+F10不能用')
+            }
+        }
+        function right() {
+        if (event.button===2){
+            event.returnValue=false
+            alert('鼠标右键不能用')
+        }
+        }
+        document.onmousedown =right;// 这里right调用函数不要 （）
+
+    </script>
+</head>
+<body onkeydown="maskingKeyboard()">
+
+这里有屏蔽键盘
+                enter,backspace,shift+F10,F5,ctrl+N,方向键左右
+<input type="text">
+
+这里有BUG  首先屏蔽 方向左右，ctrl+N  未实现
+            其次alert元素中能用已屏蔽的键  enter和F5
+</body>
+</html>

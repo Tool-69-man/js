@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af83948a-6564-453d-9295-d6d138e20111" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="网站开始" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bgsound背景音乐.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bgsound背景音乐.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>thisall</find>
+      <find>console</find>
+    </findStrings>
+    <dirStrings>
+      <dir>X:\网站开始\bing伪</dir>
+      <dir>X:\网站开始\礼物包装盒</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/while循环.html" />
+        <option value="$PROJECT_DIR$/for循环和C一样.html" />
+        <option value="$PROJECT_DIR$/传参.html" />
+        <option value="$PROJECT_DIR$/计算时间.html" />
+        <option value="$PROJECT_DIR$/超链接掉用函数.html" />
+        <option value="$PROJECT_DIR$/内置函数.html" />
+        <option value="$PROJECT_DIR$/内部对象.html" />
+        <option value="$PROJECT_DIR$/prototype属性.html" />
+        <option value="$PROJECT_DIR$/判断对象是否是对的.html" />
+        <option value="$PROJECT_DIR$/对构造函数的引用.html" />
+        <option value="$PROJECT_DIR$/时间转换为字符串.html" />
+        <option value="$PROJECT_DIR$/string的属性length,constructor,peototype.html" />
+        <option value="$PROJECT_DIR$/string的属性length,constructor,prototype.html" />
+        <option value="$PROJECT_DIR$/日期对象.html" />
+        <option value="$PROJECT_DIR$/使用event对象属性（windows）.html" />
+        <option value="$PROJECT_DIR$/button属性获取事件发生时的鼠标键.html" />
+        <option value="$PROJECT_DIR$/输入输出.html" />
+        <option value="$PROJECT_DIR$/对象.toString().html" />
+        <option value="$PROJECT_DIR$/数组.html" />
+        <option value="$PROJECT_DIR$/模仿样式基础.html" />
+        <option value="$PROJECT_DIR$/边框和填充背景.html" />
+        <option value="$PROJECT_DIR$/bing伪/登录.html" />
+        <option value="$PROJECT_DIR$/bing伪/图片的位置.html" />
+        <option value="$PROJECT_DIR$/搜索框.html" />
+        <option value="$PROJECT_DIR$/搜索框6.html" />
+        <option value="$PROJECT_DIR$/bing源码.html" />
+        <option value="$PROJECT_DIR$/body是document儿子.html" />
+        <option value="$PROJECT_DIR$/文件操作功能.html" />
+        <option value="$PROJECT_DIR$/三角形.html" />
+        <option value="$PROJECT_DIR$/相对定位.html" />
+        <option value="$PROJECT_DIR$/6级标签.html" />
+        <option value="$PROJECT_DIR$/礼物包装盒/生日礼物.html" />
+        <option value="$PROJECT_DIR$/Drive获取驱动器信息.html" />
+        <option value="$PROJECT_DIR$/文字跟随鼠标.html" />
+        <option value="$PROJECT_DIR$/for(....in..).html" />
+        <option value="$PROJECT_DIR$/with.html" />
+        <option value="$PROJECT_DIR$/数组Array.html" />
+        <option value="$PROJECT_DIR$/array对象方法.html" />
+        <option value="$PROJECT_DIR$/数组的获取和转换.html" />
+        <option value="$PROJECT_DIR$/string对象.html" />
+        <option value="$PROJECT_DIR$/H5宝典/文档声明.html" />
+        <option value="$PROJECT_DIR$/H5宝典/新的标签.html" />
+        <option value="$PROJECT_DIR$/js正则/预备知识.html" />
+        <option value="$PROJECT_DIR$/bing伪/bing.html" />
+        <option value="$PROJECT_DIR$/注册页面.html" />
+        <option value="$PROJECT_DIR$/H5宝典/注册页面.html" />
+        <option value="$PROJECT_DIR$/科技馆logo.html" />
+        <option value="$PROJECT_DIR$/H5宝典/localStorage.html" />
+        <option value="$PROJECT_DIR$/H5宝典/在线编辑表格.html" />
+        <option value="$PROJECT_DIR$/屏蔽键盘的fun.html" />
+        <option value="$PROJECT_DIR$/bgsound背景音乐.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1188" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectId" id="1Z0Xu6rJsxwgJvgRx6WB4B4aXHo" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="网站开始" type="b2602c69:ProjectViewProjectNode" />
+              <item name="网站开始" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="网站开始" type="b2602c69:ProjectViewProjectNode" />
+              <item name="网站开始" type="462c0819:PsiDirectoryNode" />
+              <item name="bing伪" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="网站开始" type="b2602c69:ProjectViewProjectNode" />
+              <item name="网站开始" type="462c0819:PsiDirectoryNode" />
+              <item name="H5宝典" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="网站开始" type="b2602c69:ProjectViewProjectNode" />
+              <item name="网站开始" type="462c0819:PsiDirectoryNode" />
+              <item name="js正则" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="网站开始" type="b2602c69:ProjectViewProjectNode" />
+              <item name="网站开始" type="462c0819:PsiDirectoryNode" />
+              <item name="礼物包装盒" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="console&#9;null&#9;null&#10;注册&#9;FILE&#9;file://X:/网站开始/注册页面.html&#10;文字跟随鼠标&#9;FILE&#9;file://X:/网站开始/文字跟随鼠标.html&#10;eve&#9;FILE&#9;file://X:/网站开始/使用event对象属性（windows）.html&#10;音乐&#9;FILE&#9;file://X:/网站开始/bgsound背景音乐.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/网站开始.iml" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\网站开始" />
+      <recent name="X:\网站开始\H5宝典" />
+      <recent name="X:\网站开始\bing伪" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\网站开始\H5宝典" />
+      <recent name="X:\网站开始\礼物包装盒\music" />
+      <recent name="X:\网站开始\bing伪" />
+      <recent name="X:\网站开始\礼物包装盒" />
+      <recent name="X:\网站开始" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.localStorage.html">
+    <configuration name="Drive获取驱动器信息.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/Drive获取驱动器信息.html" />
+    <configuration name="内置函数.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/内置函数.html" />
+    <configuration name="文字跟随鼠标.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/文字跟随鼠标.html" />
+    <configuration name="文件操作功能.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/文件操作功能.html" />
+    <configuration name="背景.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/背景.html" />
+    <configuration name="边框和填充背景.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/边框和填充背景.html" />
+    <configuration name="全局背景.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/全局背景.html" />
+    <configuration name="文件上传.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/文件上传.html" />
+    <configuration name="加粗斜体.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/加粗斜体.html" />
+    <configuration name="bgsound背景音乐.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/bgsound背景音乐.html" />
+    <configuration name="button属性获取事件发生时的鼠标键.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/button属性获取事件发生时的鼠标键.html" />
+    <configuration name="localStorage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/网站开始/H5宝典/localStorage.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.内置函数.html" />
+      <item itemvalue="JavaScript Debug.button属性获取事件发生时的鼠标键.html" />
+      <item itemvalue="JavaScript Debug.bgsound背景音乐.html" />
+      <item itemvalue="JavaScript Debug.Drive获取驱动器信息.html" />
+      <item itemvalue="JavaScript Debug.localStorage.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localStorage.html" />
+        <item itemvalue="JavaScript Debug.Drive获取驱动器信息.html" />
+        <item itemvalue="JavaScript Debug.button属性获取事件发生时的鼠标键.html" />
+        <item itemvalue="JavaScript Debug.内置函数.html" />
+        <item itemvalue="JavaScript Debug.bgsound背景音乐.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af83948a-6564-453d-9295-d6d138e20111" name="Default Changelist" comment="" />
+      <created>1583977205085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583977205085</updated>
+      <workItem from="1583977207961" duration="66000" />
+      <workItem from="1583977323652" duration="16000" />
+      <workItem from="1584508230387" duration="480000" />
+      <workItem from="1584512755910" duration="6748000" />
+      <workItem from="1585055115476" duration="2065000" />
+      <workItem from="1585397878564" duration="985000" />
+      <workItem from="1585398990579" duration="5164000" />
+      <workItem from="1585471871454" duration="43000" />
+      <workItem from="1585588460768" duration="116000" />
+      <workItem from="1585727324974" duration="4089000" />
+      <workItem from="1585731799807" duration="4417000" />
+      <workItem from="1585746868738" duration="460000" />
+      <workItem from="1585756503495" duration="1138000" />
+      <workItem from="1585792452035" duration="19000" />
+      <workItem from="1585987648386" duration="153000" />
+      <workItem from="1585987805510" duration="439000" />
+      <workItem from="1586005972568" duration="988000" />
+      <workItem from="1586052704234" duration="7653000" />
+      <workItem from="1586144223217" duration="352000" />
+      <workItem from="1586147535272" duration="4771000" />
+      <workItem from="1586326547167" duration="107000" />
+      <workItem from="1586326683182" duration="1275000" />
+      <workItem from="1586598310436" duration="1169000" />
+      <workItem from="1586611284440" duration="1824000" />
+      <workItem from="1586676318474" duration="1917000" />
+      <workItem from="1586755234311" duration="1953000" />
+      <workItem from="1586770980428" duration="254000" />
+      <workItem from="1586772040773" duration="267000" />
+      <workItem from="1586773661167" duration="1129000" />
+      <workItem from="1586825897688" duration="64000" />
+      <workItem from="1586826272992" duration="209000" />
+      <workItem from="1587272654048" duration="4870000" />
+      <workItem from="1588668581307" duration="92000" />
+      <workItem from="1588668726946" duration="959000" />
+      <workItem from="1589181703703" duration="35000" />
+      <workItem from="1589349024771" duration="8710000" />
+      <workItem from="1589439261731" duration="307000" />
+      <workItem from="1589507350824" duration="4497000" />
+      <workItem from="1589512753278" duration="2549000" />
+      <workItem from="1589605556432" duration="18000" />
+      <workItem from="1589867983266" duration="7941000" />
+      <workItem from="1591075878438" duration="3506000" />
+      <workItem from="1591079447400" duration="4093000" />
+      <workItem from="1591083575306" duration="780000" />
+      <workItem from="1591604030046" duration="621000" />
+      <workItem from="1591604808932" duration="342000" />
+      <workItem from="1591619143413" duration="1020000" />
+      <workItem from="1592039808303" duration="517000" />
+      <workItem from="1592058456066" duration="501000" />
+      <workItem from="1592132870570" duration="5760000" />
+      <workItem from="1592218834730" duration="12626000" />
+      <workItem from="1592274490327" duration="1927000" />
+      <workItem from="1592281389308" duration="2254000" />
+      <workItem from="1592302825850" duration="6021000" />
+      <workItem from="1592394492048" duration="6805000" />
+      <workItem from="1592402921543" duration="300000" />
+      <workItem from="1592455324036" duration="2572000" />
+      <workItem from="1592464444704" duration="1740000" />
+      <workItem from="1592574695600" duration="15000" />
+      <workItem from="1592888312364" duration="275000" />
+      <workItem from="1592894003897" duration="300000" />
+      <workItem from="1592894415432" duration="36000" />
+      <workItem from="1592916246225" duration="2000" />
+      <workItem from="1593248918313" duration="1000" />
+      <workItem from="1593839367782" duration="1540000" />
+      <workItem from="1594204484363" duration="1000" />
+      <workItem from="1594312273120" duration="6000" />
+      <workItem from="1594535482923" duration="4234000" />
+      <workItem from="1594798921039" duration="3837000" />
+      <workItem from="1594806218707" duration="1542000" />
+      <workItem from="1594819214249" duration="1499000" />
+      <workItem from="1595435177780" duration="3154000" />
+      <workItem from="1595936202742" duration="6789000" />
+      <workItem from="1596021594771" duration="2975000" />
+      <workItem from="1596092444874" duration="2746000" />
+      <workItem from="1596095295086" duration="1956000" />
+      <workItem from="1596166428405" duration="972000" />
+      <workItem from="1596173069468" duration="507000" />
+      <workItem from="1596183375973" duration="3869000" />
+      <workItem from="1596432265152" duration="2303000" />
+      <workItem from="1596524111315" duration="4849000" />
+      <workItem from="1596699467320" duration="1784000" />
+      <workItem from="1596786012175" duration="1248000" />
+      <workItem from="1597134324508" duration="3298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="155625000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32993197" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32993197" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" x="483" y="49" width="314" height="582" id="Project" order="6" sideWeight="0.49659863" visible="true" weight="0.20843092" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="4" sideWeight="0.50340134" side_tool="true" weight="0.24980484" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32993197" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/文字跟随鼠标.html</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/选择器属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/登录.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="11" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/过渡.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件上传.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/10-34-16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/10-34-45.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/搜索框.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="203" column="27" lean-forward="true" selection-start-line="201" selection-start-column="11" selection-end-line="203" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing源码.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/OHR.SantaElena_ZH-CN8036210800_1920x1080.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/22-05-17.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/军训列阵.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分区响应区.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/搜索框6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string的属性length,constructor,prototype.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/button属性获取事件发生时的鼠标键.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作功能.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/三角形.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/相对定位.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6级标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Drive获取驱动器信息.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firldset与legend.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文字跟随鼠标.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/礼物包装盒/生日礼物.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/with.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组Array.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array对象方法数组添加排序.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for(....in..).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string对象.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组的获取和转换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js正则/预备知识.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/选择器全部选择.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文本样式下.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H5宝典/新的标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="63" selection-start-line="63" selection-start-column="4" selection-end-line="64" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H5宝典/文档声明.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prototype属性.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/图片的位置.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="15919" column="12" selection-start-line="15919" selection-start-column="12" selection-end-line="15919" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bing伪/bing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="84" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/body是document儿子.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H5宝典/localStorage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H5宝典/注册页面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="93" column="70" selection-start-line="93" selection-start-column="70" selection-end-line="93" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/科技馆logo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/audio音频.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/使用event对象属性（windows）.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H5宝典/在线编辑表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/屏蔽键盘的fun.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bgsound背景音乐.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>网站开始</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
